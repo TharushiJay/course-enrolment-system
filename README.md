@@ -3,9 +3,10 @@ A course enrolment system for a university. The Admin is able to perform CRUD op
 Given below are some screenshots.
 
 <img src="https://github.com/TharushiJay/course-enrolment-system/blob/master/screenshots/9.PNG" width="500">
-
 <img src="https://github.com/TharushiJay/course-enrolment-system/blob/master/screenshots/24.PNG" width="500">
 
+<img src="https://github.com/TharushiJay/course-enrolment-system/blob/master/screenshots/11.PNG" width="500">
 <img src="https://github.com/TharushiJay/course-enrolment-system/blob/master/screenshots/10.PNG" width="500">
 
 <img src="https://github.com/TharushiJay/course-enrolment-system/blob/master/screenshots/31.PNG" width="500">
+<img src="https://github.com/TharushiJay/course-enrolment-system/blob/master/screenshots/33.PNG" width="500">
